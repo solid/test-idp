@@ -22,7 +22,7 @@
     "@panva/jose": "^1.6.1",
     "express": "^4.17.1",
     "express-subdomain": "^1.0.5",
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.7",
     "nodemon": "^1.19.1"
   }
 }
